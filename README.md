@@ -1,6 +1,6 @@
-<em> # JAVASCRIPT </em>
+<h1><em> # JAVASCRIPT </em></h1>
 
-##INDICE
+
 
 *[Historia de JavaScript](#historiadeJavaScript)
 
