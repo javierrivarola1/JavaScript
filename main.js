@@ -36,3 +36,31 @@
 // const holamundo = holaMundo;
 
 // --------------------------------------------
+
+// JavaScript Hoisting se refiere al proceso mediante el cual el intérprete parece mover la declaración de funciones,
+//  variables o clases a la parte superior de su alcance, antes de la ejecución del código. 
+// (se declara la variable y despues se ejecuta)
+
+// ---------------------------------------------
+
+// El objeto JavaScript es una estructura de datos que nos permite tener pares clave-valor;
+//  entonces podemos tener claves distintas y cada clave se asigna a un valor que puede ser de cualquier tipo de datos JavaScript. 
+
+// EJ: const javier = {nombre:"Javier"
+// Edad:30
+// Pais: "Argentina"
+// Ciudad: "Buenos Aires" }
+
+// --------------------------------------------
+
+// El operador typeof devuelve el tipo de una variable, objeto, función o expresión:
+
+// "'Javier' is " + typeof "Javier" = Javier is string
+// "3.14 is " + typeof 3.14 = 3.14 is number
+// false is " + typeof false = false is boolean
+// [1, 2, 3, 4] is " + typeof [1, 2, 3, 4] = [1, 2, 3, 4] is object
+// {name:'Javier', age:30} is " + typeof {name:'John', age:30} = {name:'Javier', age:30} is object
+
+// ---------------------------------------------
+
+
