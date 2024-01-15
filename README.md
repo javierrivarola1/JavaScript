@@ -3,6 +3,9 @@
 
 
 *[Historia de JavaScript](#historiadeJavaScript)
+*[Variables de JavaScript](#Variables_de_JavaScript)
+*[Objeto](#Objetos_de_JavaScript)
+*[typeof](#type_of_JavaScript)
 
 
 
