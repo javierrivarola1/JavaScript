@@ -2,10 +2,10 @@
 
 
 
--*[Historia de JavaScript](#historiadeJavaScript) 
--*[Variables de JavaScript](#Variables_de_JavaScript)
--*[Objeto](#Objetos_de_JavaScript)
--*[Typeof](#Typeof_JavaScript)
+- [Historia de JavaScript](#historiadeJavaScript) 
+- [Variables de JavaScript](#Variables_de_JavaScript)
+- [Objeto](#Objetos_de_JavaScript)
+- [Typeof](#Typeof_JavaScript)
 
 
 
