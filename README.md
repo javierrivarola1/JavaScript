@@ -6,6 +6,7 @@
 - [Variables de JavaScript](#Variables_de_JavaScript)
 - [Objeto](#Objetos_de_JavaScript)
 - [Typeof](#Typeof_JavaScript)
+- [Tipos de datos](#Tipos_de_datos_JavaScript)
 
 
 
