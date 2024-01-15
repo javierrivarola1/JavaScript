@@ -49,7 +49,7 @@
 // EJ: const javier = {nombre:"Javier"
 // Edad:30
 // Pais: "Argentina"
-// Ciudad: "Buenos Aires" }
+// Ciudad: "Buenos Aires" } ;
 
 // --------------------------------------------
 
@@ -62,5 +62,23 @@
 // {name:'Javier', age:30} is " + typeof {name:'John', age:30} = {name:'Javier', age:30} is object
 
 // ---------------------------------------------
+
+// // Tipos de datos
+
+// El tipo de datos se refiere al tipo de datos que puede contener una variable de JavaScript.
+//  Hay siete tipos de datos primitivos en JavaScript (Número, BigInt, Cadena, Booleano, Nulo, Indefinido y Símbolo). Los objetos no son primitivos.
+
+
+// let Numero = 30 ;
+// let String ="Javier" ;
+// let esVerdadero = true ;
+// let esFalso = False ;
+// let miArray = [1,2,3,4] ;
+// let valorNulo = null ;
+// let simbolo = Symbol("miSimbolo");
+
+// -------------------------------------------
+
+
 
 
