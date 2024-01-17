@@ -8,6 +8,7 @@
 - [Typeof](#Typeof_JavaScript)
 - [Tipos de datos](#Tipos_de_datos_JavaScript)
 - [Arrays](#Arrray_JavaScript)
+- [Map](#Map_JavaScript)
 
 
 
