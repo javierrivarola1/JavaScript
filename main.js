@@ -46,7 +46,7 @@
 // El objeto JavaScript es una estructura de datos que nos permite tener pares clave-valor;
 //  entonces podemos tener claves distintas y cada clave se asigna a un valor que puede ser de cualquier tipo de datos JavaScript. 
 
-// EJ: const javier = {nombre:"Javier"
+// EJEMPLO: const javier = {nombre:"Javier"
 // Edad:30
 // Pais: "Argentina"
 // Ciudad: "Buenos Aires" } ;
@@ -54,6 +54,8 @@
 // --------------------------------------------
 
 // El operador typeof devuelve el tipo de una variable, objeto, función o expresión:
+
+// EJEMPLOS:
 
 // "'Javier' is " + typeof "Javier" = Javier is string
 // "3.14 is " + typeof 3.14 = 3.14 is number
@@ -68,6 +70,7 @@
 // El tipo de datos se refiere al tipo de datos que puede contener una variable de JavaScript.
 //  Hay siete tipos de datos primitivos en JavaScript (Número, BigInt, Cadena, Booleano, Nulo, Indefinido y Símbolo). Los objetos no son primitivos.
 
+// EJEMPLOS:
 
 // let Numero = 30 ;
 // let String ="Javier" ;
@@ -79,6 +82,25 @@
 
 // -------------------------------------------
 
+// ARRAY
 
+// Las array son objetos que almacenan una colección de elementos y se pueden asignar a una variable. 
+// Tienen sus métodos que pueden realizar operaciones en la misma.
 
+// ejemplos
+
+// let arr = [1, 2, 3, 4];
+// let javier = ["Alto", "Delgado", 30, "Junio", 1993];
+
+// Para pedir un elemento de una Array es:
+
+// let arr = [1, 2, 3, 5];
+
+// let tercerElemento = arr[2];
+
+// console.log (tercerElemento);
+
+// 2.
+
+// En este ejemplo, miArray[2] se utiliza para acceder al tercer elemento del array, ya que los índices en JavaScript comienzan desde 0.
 
