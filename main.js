@@ -104,3 +104,28 @@
 
 // En este ejemplo, miArray[2] se utiliza para acceder al tercer elemento del array, ya que los índices en JavaScript comienzan desde 0.
 
+// Map
+
+// Map (), es una función de los arrays en JavaScript que se utiliza para transformar cada elemento de un array según una función dada,
+//  y devuelve un nuevo array con los resultados de aplicar la función a cada elemento.
+
+// Ejemplos:
+
+// let numeros = [1, 2, 3, 4, 5];
+// let numerosDuplicados = numeros.map(function(numero) {
+//   return numero * 2;
+// });
+// console.log(numerosDuplicados);
+// (5)  [2, 4, 6, 8, 10];
+
+
+//let nombres = ["Juan", "María", "Carlos", "Ana"];
+// let longitudesDeNombres = nombres.map(function(nombre) {
+    //   return nombre.length;
+// });
+// console.log(longitudesDeNombres);
+
+// [4, 5, 6, 3]
+
+
+
