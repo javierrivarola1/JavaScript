@@ -127,5 +127,7 @@
 
 // [4, 5, 6, 3]
 
-
-
+// const nombres = ["Javier", "María", "Pedro", "Ana"];
+// const nombresGeniales = nombres.map(nombre => nombre + " es genial");
+// console.log(nombresGeniales);
+// Javier es genial.
