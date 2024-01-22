@@ -59,12 +59,39 @@
 
 // == es igual a parecidos.
 
-// ejemplo: x == 5
-// x == "5"
+// ejemplo: 
+// x == 5
+// y == "5"
 // Los 2 resultados son verdaderos ya que el numero 5 aparece mas alla que sea un numero o un string, JavaScrpit toma como resultado correcto
 // el numero 5
 
+// === Igual a de manera instricta
 
+// ejemplo:
+// let d = 5;
+// let e = '5';
+
+// let sonIguales = (d === e);
+
+// es falso
+
+// != Desigualdad
+
+// Ejemplo: 
+// x != 8 es verdadero
+
+// !== Desigualdad estricta
+// x !== 8 es verdadero
+
+// <, =<, >, >= mayor o igual, menor o igual
+
+// ejemplo
+
+// let num1 = 5
+// let num2 = 10
+// let resultado = (num1>num2);
+// console.log (resultado);
+// falso
 
 
 
