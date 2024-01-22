@@ -78,10 +78,20 @@
 // != Desigualdad
 
 // Ejemplo: 
-// x != 8 es verdadero
+// let x = 8 
+// let y = "8" 
+// let e = (x != y);
+// console.log (e);
 
-// !== Desigualdad estricta
-// x !== 8 es verdadero
+// es falso
+
+// !== Desigualdad instricta
+
+// let x = 8 
+// let y = "8" 
+// let e = (x !== y);
+// console.log (e);
+// true
 
 // <, =<, >, >= mayor o igual, menor o igual
 
@@ -93,9 +103,25 @@
 // console.log (resultado);
 // falso
 
+// Operador OR || si una de la 2 condiciones se cumple, se ejecuta. 
+
+// ejemplo:
+
+// let a = 15;
+// let b = 8;
+// let resultado = (a > 10 || b < 5);
+
+// es correcto ya que a es mayor a 10.
+
+// AND && si las 2 condiciones se cumplen, se ejecuta, sino no.
+
+// let x = 5;
+// let y = 10;
+// let resultado = (x < 10 && y > 5);
+
+// verdadero ya que las 2 se cumplen
 
 
-// 
 
 // El operador typeof devuelve el tipo de una variable, objeto, función o expresión:
 
