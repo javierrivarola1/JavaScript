@@ -220,10 +220,14 @@
 // console.log(str);
 // "012345678"
 
+// /////////////////////////////////////////////////
+
 // let miArreglo = [1, 2, 3, 4, 5];
 // for (var i = 0; i < miArreglo.length; i++) {
 //   console.log(miArreglo[i]);
 // }
+
+// /////////////////////////////////////////////
 
 // let suma = 0;
 // for (var i = 1; i <= 5; i++) {
@@ -231,6 +235,20 @@
 // }
 // console.log("La suma es: " + suma);
 
+// //////////////////////////////////////////
+
+// do-while
+
+// La sentencia do...while crea un bucle que ejecuta una sentencia especificada hasta que la condición de prueba se evalúa como falsa.
+// La condición se evalúa después de ejecutar la sentencia, con lo que la sentencia especificada se ejecuta al menos una vez.
+
+// let i = 0;
+// do {
+//     console.log(i);
+//     i++;
+// } while (l < 5);
+
+// 
 
 
 
