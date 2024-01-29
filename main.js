@@ -202,6 +202,40 @@
 // console.log(nombresGeniales);
 // Javier es genial.
 
+// For.
+
+// El forbucle es una construcción de flujo de control estándar en muchos lenguajes de programación, incluido JavaScript. 
+// Se usa comúnmente para iterar sobre secuencias determinadas o iterar un número conocido de veces y ejecutar un fragmento de código para cada iteración.
+// La sentencia for crea un bucle que consta de tres expresiones opcionales, encerradas entre paréntesis y separadas por punto y coma, 
+// seguidas de una sentencia (normalmente una sentencia de bloque) que se ejecutará en el bucle.
+
+// Ejemplos
+
+// let str = '';
+
+// for (let i = 0; i < 9; i++) {
+//   str = str + i;
+// }
+
+// console.log(str);
+// "012345678"
+
+// let miArreglo = [1, 2, 3, 4, 5];
+// for (var i = 0; i < miArreglo.length; i++) {
+//   console.log(miArreglo[i]);
+// }
+
+// let suma = 0;
+// for (var i = 1; i <= 5; i++) {
+//   suma += i;
+// }
+// console.log("La suma es: " + suma);
+
+
+
+
+
+
 // JSON
 
 // La notación de objetos JavaScript (JSON) es un formato estándar basado en texto para representar datos estructurados basados ​​en la sintaxis
