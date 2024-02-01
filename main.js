@@ -79,7 +79,27 @@
 // console.log (nombre.length)
 // 6
 
+// Metodos de numeros: Igual que los metodos Strings pero esta vez con variables numerales. 
 
+// // let numero = 21000
+//  console.log (numero.toFixed(2))
+//   21000.00
+
+// // let otroNum = 123455
+// console.log (otroNum.toLocaleString())
+// 123.455
+
+
+// Funcion Nativa de JAVASCRIPT que convierte un texto a un valor numerico del tipo entero.
+// let unNumeroMas = 123321.00
+// console.log(parseInt(unNumeroMas))
+
+// Funcion nativa de JAVASCRIPT que es parecida a la ParseInt pero respeto los puntos de los numeros.
+
+// let unNumeroMas = 123321.01
+// console.log(parseFloat(unNumeroMas))
+
+// -------------------------------
 
 // Operadores de comparación
 
