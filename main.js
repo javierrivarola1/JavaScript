@@ -53,6 +53,34 @@
 
 // --------------------------------------------
 
+// // Tipos de datos
+
+// El tipo de datos se refiere al tipo de datos que puede contener una variable de JavaScript.
+//  Hay siete tipos de datos primitivos en JavaScript (Número, BigInt, Cadena, Booleano, Nulo, Indefinido y Símbolo). Los objetos no son primitivos.
+
+// EJEMPLOS:
+
+// let Numero = 30 ;
+// let String ="Javier" ;
+// let esVerdadero = true ;
+// let esFalso = False ;
+// let miArray = [1,2,3,4] ;
+// let valorNulo = null ;
+// let simbolo = Symbol("miSimbolo");
+
+//---------------------------------------------
+
+// Metodos de Strings: Permite realizar operaciones de transformacion sobre valores almacenados.
+
+// let nombre = Javier;
+// console.log (nombre.toLowerCase)
+// ƒ toLowerCase() { [native code] }
+
+// console.log (nombre.length)
+// 6
+
+
+
 // Operadores de comparación
 
 // Los operadores de comparación se utilizan en declaraciones lógicas para determinar la igualdad o diferencia entre variables o valores.
@@ -134,23 +162,6 @@
 // {name:'Javier', age:30} is " + typeof {name:'John', age:30} = {name:'Javier', age:30} is object
 
 // ---------------------------------------------
-
-// // Tipos de datos
-
-// El tipo de datos se refiere al tipo de datos que puede contener una variable de JavaScript.
-//  Hay siete tipos de datos primitivos en JavaScript (Número, BigInt, Cadena, Booleano, Nulo, Indefinido y Símbolo). Los objetos no son primitivos.
-
-// EJEMPLOS:
-
-// let Numero = 30 ;
-// let String ="Javier" ;
-// let esVerdadero = true ;
-// let esFalso = False ;
-// let miArray = [1,2,3,4] ;
-// let valorNulo = null ;
-// let simbolo = Symbol("miSimbolo");
-
-// -------------------------------------------
 
 // ARRAY
 
