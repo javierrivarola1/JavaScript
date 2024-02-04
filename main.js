@@ -268,6 +268,16 @@
 
 // //////////////////////////////////////////
 
+// let ingresarNumero = parseInt(prompt("Ingresar un numero"));
+
+// for (let i = 1 ; i <= 10 ; i++) {
+//     let resultado = ingresarNumero * i ; 
+//     alert (ingresarNumero + " x " + i + " = " + resultado);
+
+// }
+
+///////////////////////////////////////////////
+
 // do-while
 
 // La sentencia do...while crea un bucle que ejecuta una sentencia especificada hasta que la condición de prueba se evalúa como falsa.
