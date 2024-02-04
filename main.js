@@ -278,6 +278,16 @@
 
 ///////////////////////////////////////////////
 
+// //////////////////////////////////
+
+// let entrada = prompt("ingresar un dato"); 
+
+// while (entrada != "Javier") {
+//     alert ("Ingreso el usuario" + " " + entrada)
+//     entrada = prompt("El nombre es incorrecto, ingresa otro nombre: ")    
+// };
+
+
 // do-while
 
 // La sentencia do...while crea un bucle que ejecuta una sentencia especificada hasta que la condición de prueba se evalúa como falsa.
