@@ -267,20 +267,32 @@
 
 //  Como dice la palabra, el if es una condicion, entre 2 variables, dependiendo la respuesta que te de 
 // esa condicion es verdaderea o falsa y te va a devolver un resultado.
+
+//  Ejemplo:
+
 let numOne = 123
 let numTwo = 456
+let numThree = 789
 
 if (numOne === 123) {
 
     console.log ("El resultado es verdadero")
     
-}
+} ;
 
 if (numTwo === 4567) {
     console.log ("El resultado vuelve a ser verdadero")
 }else {
     console.error ("El resultado no es verdadero")
+} ;
+
+if (numOne > 1234) {
+    console.log ("El resultado es correcto")
+    
+} else if (numTwo === 456) {
+    console.warn ("Seguramente estas en lo correcto")
 }
+else { console.error ("No estas en lo correcto man") } ;
 
 
 
