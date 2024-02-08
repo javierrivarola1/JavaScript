@@ -84,7 +84,6 @@
 // // let numero = 21000
 //  console.log (numero.toFixed(2))
 //   21000.00
-
 // // let otroNum = 123455
 // console.log (otroNum.toLocaleString())
 // 123.455
@@ -98,6 +97,9 @@
 
 // let unNumeroMas = 123321.01
 // console.log(parseFloat(unNumeroMas))
+
+// let nombre = "Javier"
+// nombre.trim (nombre); // "Javier" sin espacios.
 
 // -------------------------------
 
@@ -169,6 +171,31 @@
 
 // verdadero ya que las 2 se cumplen
 
+// ///////////////////////////////////////////////////////////////////////////////////
+
+// Interacción: alert, prompt, confirm
+
+// Alert
+
+// Ejemplo : alert ("Hello");
+
+// Prompt: La funcion prompt acepta dos argumentos
+
+// Ejemplo: resultado = prompt ("¿Cual es tu nombre?", [nombre]);
+
+// Muestra una ventana modal con un mensaje de texto, un campo de entrada para el visitante y los botones OK/CANCELAR.
+
+// let age = prompt ('¿Cuántos años tienes?', 100);
+
+// alert(`Tienes ${age} años!`); //Tienes 100 años!
+
+// La función confirm muestra una ventana modal con una pregunta y dos botones: OK y CANCELAR.
+
+// let isBoss = confirm("¿Eres el jefe?");
+
+// alert( isBoss ); // true si se pulsa OK
+
+// ///////////////////////////////////////////////
 
 
 // El operador typeof devuelve el tipo de una variable, objeto, función o expresión:
@@ -222,7 +249,7 @@
 
 //let nombres = ["Juan", "María", "Carlos", "Ana"];
 // let longitudesDeNombres = nombres.map(function(nombre) {
-    //   return nombre.length;
+//   return nombre.length;
 // });
 // console.log(longitudesDeNombres);
 
@@ -232,6 +259,30 @@
 // const nombresGeniales = nombres.map(nombre => nombre + " es genial");
 // console.log(nombresGeniales);
 // Javier es genial.
+
+
+// ///////////////////////////////////////////////////////
+
+// Condicionales
+
+//  Como dice la palabra, el if es una condicion, entre 2 variables, dependiendo la respuesta que te de 
+// esa condicion es verdaderea o falsa y te va a devolver un resultado.
+let numOne = 123
+let numTwo = 456
+
+if (numOne === 123) {
+
+    console.log ("El resultado es verdadero")
+    
+}
+
+if (numTwo === 4567) {
+    console.log ("El resultado vuelve a ser verdadero")
+}else {
+    console.error ("El resultado no es verdadero")
+}
+
+
 
 // For.
 
