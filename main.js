@@ -268,31 +268,98 @@
 //  Como dice la palabra, el if es una condicion, entre 2 variables, dependiendo la respuesta que te de 
 // esa condicion es verdaderea o falsa y te va a devolver un resultado.
 
-//  Ejemplo:
+//  Ejemplos:
 
-let numOne = 123
-let numTwo = 456
-let numThree = 789
+// let numOne = 123
+// let numTwo = 456
+// let numThree = 789
 
-if (numOne === 123) {
+// if (numOne === 123) {
 
-    console.log ("El resultado es verdadero")
+//     console.log ("El resultado es verdadero")
     
-} ;
+// } ;
 
-if (numTwo === 4567) {
-    console.log ("El resultado vuelve a ser verdadero")
-}else {
-    console.error ("El resultado no es verdadero")
-} ;
+// if (numTwo === 4567) {
+//     console.log ("El resultado vuelve a ser verdadero")
+// }else {
+//     console.error ("El resultado no es verdadero")
+// } ;
 
-if (numOne > 1234) {
-    console.log ("El resultado es correcto")
+// if (numOne > 1234) {
+//     console.log ("El resultado es correcto")
     
-} else if (numTwo === 456) {
-    console.warn ("Seguramente estas en lo correcto")
-}
-else { console.error ("No estas en lo correcto man") } ;
+// } else if (numTwo === 456) {
+//     console.warn ("Seguramente estas en lo correcto")
+// }
+// else { console.error ("No estas en lo correcto man") } ;
+
+// ////////////////////////////////
+
+// let unColor = "Azul";
+
+// if (unColor.toLowerCase() === "azul") {
+
+//     console.log ("Es casi igual")
+    
+// } else {
+
+//     console.error ("No es lo mismo!")
+    
+// };
+
+// ///////////////////////////////
+// let userName = prompt ("Ingresar tu nombre de Usuario");
+
+
+// if (userName === "") {
+
+//     alert ("Tenes que registrarte.")
+    
+// } else if (prompt ("Esta vez intentalo de vuelta" + " " + userName)) {
+
+//     confirm ("Bievenido" + " " + userName)
+    
+// }
+
+// else {
+
+//     alert ("Vuelve a registrarte.")
+    
+// };
+
+// //////////////////////////////////////////////
+
+// let ofertaBase = 3000;
+
+// let ofertar = confirm ("Bienvenido a JavierStore");
+
+// if (ofertar === true) {
+
+//     let ofertarUsuario = parseInt(prompt("¿Cuanto podes pagar? "));
+    
+//     if (ofertarUsuario < 2000) {
+
+//         alert ("Es demasiado poco");
+        
+//     } else if (ofertarUsuario < 2200) {
+
+//         alert ("Sigue siendo poco, sale mas caro");
+        
+//     } else if (ofertarUsuario <= 2900) {
+
+//         alert("Estirate un poco mas");
+        
+//     } else {
+
+//         confirm ("Realizaste tu compra con exito");
+//     }
+    
+// }
+
+
+
+
 
 
 
