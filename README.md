@@ -5,7 +5,7 @@
 - [Historia de JavaScript](#historiadeJavaScript) 
 - [Variables de JavaScript](#Variables_de_JavaScript)
 - [Metodo de String](#metodoDeString_de_JavaScript)
-- [Metodo de number](#metodoDeNumber_de_JavaScript)
+- [Metodo de Number](#metodoDeNumber_de_JavaScript)
 - [Objeto](#Objetos_de_JavaScript)
 - [Operadores_logicos](#Operadores_logicos_JavaScript)
 - [Interacciones](#Interacciones_de_JavaScript)
