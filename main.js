@@ -369,6 +369,8 @@
 // Se usa comúnmente para iterar sobre secuencias determinadas o iterar un número conocido de veces y ejecutar un fragmento de código para cada iteración.
 // La sentencia for crea un bucle que consta de tres expresiones opcionales, encerradas entre paréntesis y separadas por punto y coma, 
 // seguidas de una sentencia (normalmente una sentencia de bloque) que se ejecutará en el bucle.
+// Repiten un bloque de código un número de veces específico. 
+
 
 // Ejemplos
 
@@ -408,13 +410,46 @@
 
 ///////////////////////////////////////////////
 
+// let newNum = prompt ("Ingresa un nuevo numero por favor :");
+
+// for (let i = 1; i < 10; i++) {
+//     confirm (newNum * i)
+// };
+
 // //////////////////////////////////
+
+
+// const paises = ["Estados Unidos", "China", "India", "Brasil", "Indonesia", "Pakistán", "Nigeria", "Bangladés", "Rusia", "México"];
+
+
+// for (let i = 0; i < paises.length; i++) {
+//     confirm ("Interando con paises como por ejemplo:" + " " + paises [i])
+//       };
+
+// //////////////////////////////////////
 
 // let entrada = prompt("ingresar un dato"); 
 
 // while (entrada != "Javier") {
 //     alert ("Ingreso el usuario" + " " + entrada)
 //     entrada = prompt("El nombre es incorrecto, ingresa otro nombre: ")    
+// };
+
+
+// // ////////////////////////////
+
+// let confirmado = true;
+
+// while (confirmado) {
+
+//     let num = parseInt (prompt("Ingresar un numero por favor de dos cifras :"))
+
+//     if (num >= 20) {
+//         confirmado = false
+//         confirm ("Gracias por igresar el numero" + " " +num)
+
+//     }
+
 // };
 
 
