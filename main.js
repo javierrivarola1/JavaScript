@@ -452,6 +452,18 @@
 
 // };
 
+// /////////////////////////////////
+
+// let num = parseInt(prompt("ingresa otro num :"));
+
+// let array = [];
+
+// for (let i = 1; i <= num; i++) {
+// array.push(i);
+// };
+// console.log(array);
+
+
 
 // do-while
 
@@ -508,3 +520,14 @@
 
 // 
 
+let esPalindromo = "reconocer";
+
+let conjunto = [];
+
+let conjuntoInverso = [];
+
+for (let i = 0; i < esPalindromo.length; i--) {
+        
+    
+}
+    
