@@ -17,6 +17,7 @@
 - [For](#For_JavaScript)
 - [While](#While_JavaScript)
 - [Do-While](#Do_While_JavaScript)
+- [Switch](#Switch_JavaScript)
 
 
 
