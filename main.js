@@ -357,6 +357,25 @@
     
 // }
 
+// Switch
+
+let color = prompt ("Elija un color por favor: ");
+
+switch (color) {
+    case "blanco":
+        alert ("Tenemos talles en ese color")
+        break;
+    case "azul":
+        confirm ("Tenemos remeras de color")
+        break;
+     case "rojo":
+        confirm ("Tenemos muchos talles de esas remeras de color")
+        break;
+       default:
+        confirm ("No trabajamos con ese color")
+        break;
+};
+
 
 
 
