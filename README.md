@@ -14,6 +14,7 @@
 - [Arrays](#Arrray_JavaScript)
 - [Map](#Map_JavaScript)
 - [If](#If_JavaScript)
+- [Swtich](#Switch_JavaScript)
 - [For](#For_JavaScript)
 - [While](#While_JavaScript)
 - [Do-While](#Do_While_JavaScript)
